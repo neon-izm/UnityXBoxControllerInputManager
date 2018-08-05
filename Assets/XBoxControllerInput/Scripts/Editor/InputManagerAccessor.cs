@@ -3,7 +3,12 @@ using UnityEditor;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-
+/**
+[InputManagerAccessor.cs]
+Copyright (c) 2018 https://github.com/atori708
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
 namespace XBoxControllerInput
 {
     public enum InputType
